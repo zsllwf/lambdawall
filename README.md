@@ -4,12 +4,11 @@
   <h2 align="center">Lively Wallpaper</h2>
 </p>
 
-[![GitHub release](https://img.shields.io/github/release/rocksdanister/lively/all.svg)](https://github.com/rocksdanister/lively/releases)
-[![Github all releases](https://img.shields.io/github/downloads/rocksdanister/lively/total.svg)](https://github.com/rocksdanister/lively/releases)
-[![GitHub stars](https://img.shields.io/github/stars/rocksdanister/lively.svg)](https://github.com/rocksdanister/lively/stargazers)
-[![Documentation](https://img.shields.io/badge/Docs-WIP-red.svg)](https://github.com/rocksdanister/lively/wiki)
-[![Issues](https://img.shields.io/github/issues/rocksdanister/lively.svg)](https://github.com/rocksdanister/lively/issues)
-[![Crowdin](https://badges.crowdin.net/lively-wallpaper/localized.svg)](https://crowdin.com/project/lively-wallpaper)
+[![GitHub release](https://img.shields.io/github/release/rocksdanister/lively/all.svg)](https://github.com/zsllwf/lambdawall/releases)
+[![Github all releases](https://img.shields.io/github/downloads/rocksdanister/lively/total.svg)](https://github.com/zsllwf/lambdawall/releases)
+[![GitHub stars](https://img.shields.io/github/stars/rocksdanister/lively.svg)](https://github.com/zsllwf/lambdawall/stargazers)
+[![Documentation](https://img.shields.io/badge/Docs-WIP-red.svg)](https://github.com/zsllwf/lambdawall/wiki)
+[![Issues](https://img.shields.io/github/issues/rocksdanister/lively.svg)](https://github.com/zsllwf/lambdawall/issues)
 
 ## Contents
 - [About](#about)
@@ -19,7 +18,7 @@
 - [License](#license)
 
 ## About
-<img src="/resources/main_preview.gif" width="600" height="338"/>
+<img src="/lambdawall.gif" width="600" height="338"/>
 
 Animated desktop wallpapers, bring your desktop to life!
 

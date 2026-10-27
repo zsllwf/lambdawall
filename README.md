@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img alt="Files Logo" src="resources/figma_promo_16x9.jpg" width="450" />
-  <h2 align="center">Lively Wallpaper</h2>
+  <img src="/lambdawall.gif" width="600" height="338"/>
+  <h2 align="center">Lambda Wall</h2>
 </p>
 
 [![GitHub release](https://img.shields.io/github/release/rocksdanister/lively/all.svg)](https://github.com/zsllwf/lambdawall/releases)
@@ -23,8 +23,7 @@
 Animated desktop wallpapers, bring your desktop to life!
 
 #### Join Discussions:
-* <a href="https://www.reddit.com/r/LivelyWallpaper/">Reddit</a>
-* <a href="https://github.com/rocksdanister/lively/discussions/">Github</a>
+* <a href="https://github.com/zsllwf/lambdawall/discussions/">Github</a>
 
 ## Features
 *Wait a sec, preview gif clips take some time to load.*
@@ -37,27 +36,27 @@ Animated desktop wallpapers, bring your desktop to life!
 #### Screensavers
 <img src="/resources/screen_saver.gif" width="600" height="338"/>
 
-* Lively supports Windows screensaver.
+* Lambda supports Windows screensaver.
 * Any wallpaper can be used as screensaver.
 * Multiple monitor supported.
-* [Learn more..](https://github.com/rocksdanister/lively/wiki/Screen-Saver)
+* [Learn more..](https://github.com/zsllwf/lambdawall/wiki/Screen-Saver)
 #### Automation
 <img src="/resources/rotary_demo.gif" width="600" height="338"/>
 
 * Lively can be controlled with command line arguments from terminal.
 * Integrate with other languages like Python or scripting software AutoHotKey.
-* [Learn more..](https://github.com/rocksdanister/lively/wiki/Command-Line-Controls)
+* [Learn more..](https://github.com/zsllwf/lambdawall/wiki/Command-Line-Controls)
 #### Lively API
 <img src="/resources/music_api.gif" width="600" height="338"/>
 
 * Powerful set of API for developers to create interactive wallpapers.
 * Get hardware readings, audio graph, music information..
-* [Learn more..](https://github.com/rocksdanister/lively/wiki/API)
+* [Learn more..](https://github.com/zsllwf/lambdawall/wiki/API)
 #### Machine Learning
 <img src="/resources/wallpaper_depth.gif" width="600" height="338"/>
 
 * Leverage Machine Learning inference to create dynamic wallpapers.
-* [Learn more..](https://github.com/rocksdanister/lively/wiki/Machine-Learning)
+* [Learn more..](https://github.com/zsllwf/lambdawall/wiki/Machine-Learning)
 #### More Features
 - Minimal webpage renderer powered by chromium.
 - Hardware accelerated video playback using mpv/vlc player with customizable video filters.
@@ -72,33 +71,24 @@ Animated desktop wallpapers, bring your desktop to life!
  * Can be set to pause wallpaper when running on battery power (laptops.)
  * Wallpaper automatically pauses when running remote desktop session.
 
-**_Lively is not officially affiliated with Unity technologies, godot, shadertoy;_**
-## Download
-##### Microsoft Store (Windows 10 1809 or above)
-
-[<img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft" width="142px" height="52px">](https://apps.microsoft.com/store/detail/9NTM2QC6QWS7)
-
-##### [Installer (Windows 10 1903 or above)](https://github.com/rocksdanister/lively/releases/latest)
-
-[Which version do I download?](https://github.com/rocksdanister/lively/wiki/Differences-Between-Distributions)
-
 ## Support
 Are you a Lively fan and want to help out? here are some options..
 
 #### Programmer
-Code contributions are welcome, [learn more..](https://github.com/rocksdanister/lively/wiki/Contributing-Guidelines)
+Code contributions are welcome, [learn more..](https://github.com/zsllwf/lambdawall/wiki/Contributing-Guidelines)
 
 #### Designer
-Help improve UI/UX of Lively, [learn more..](https://github.com/rocksdanister/lively/wiki/Contributing-Guidelines)
-
-#### Localization
-Help translate Lively to more languages, [learn more..](https://github.com/rocksdanister/lively-translations)
+Help improve UI/UX of Lambda, [learn more..](https://github.com/zsllwf/lambdawall/wiki/Contributing-Guidelines)
 
 #### Suggestions & Bug report
-Suggest new features or file bug reports to improve Lively, [learn more..](https://github.com/rocksdanister/lively/issues)
+Suggest new features or file bug reports to improve Lively, [learn more..](https://github.com/zsllwf/lambdawall/issues)
 
 #### Spread the word
 Star this repository, leave a Microsoft store review or tell your friend.. any help is welcome :)
 
 ## License
-Lively is licensed under [GPL-v3.](https://github.com/rocksdanister/lively/blob/core-separation/LICENSE)
+Lambda is licensed under [GPL-v3.](https://github.com/zsllwf/lambdawall/blob/core-seperation/LICENSE)
+Fork of Lively Wallpaper [GPL-v3.](https://github.com/rocksdanister/lively/blob/core-separation/LICENSE)
+
+## About the selling of binaries:
+Me and my friend want to sell binaries because we kinda want to start making money so we can support our future. The code however remains free and open source.
